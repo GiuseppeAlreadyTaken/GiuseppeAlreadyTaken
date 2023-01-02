@@ -11,7 +11,7 @@
   
 
 <div align="center">
-<img src="[https://media3.giphy.com/media/WoWm8YzFQJg5i/giphy.gif?cid=ecf05e474990vk6koc311iteootptpx78o5own6e3i9p07ol&rid=giphy.gif&ct=g](https://github-readme-stats.vercel.app/api/top-langs/?username=GiuseppeAlreadyTaken&theme=nord&hide_border=true&include_all_commits=true&count_private=true&layout=compact)" align="center" height="" width="200" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiuseppeAlreadyTaken&theme=nord&hide_border=true&include_all_commits=true&count_private=true&layout=compact" align="center" height="" width="200" />
 </div>  
 
 <div align="center">
