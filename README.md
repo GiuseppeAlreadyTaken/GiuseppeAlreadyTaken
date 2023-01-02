@@ -3,7 +3,7 @@
 </div>  
   
 
-# <div align="center">Ciao my name is Giuseppe🥰</div>  
+# <div align="center">Ciao, my name is Giuseppe🥰</div>  
   
 
 ### <div align="center">I'm a 17 year old [Full Stack](https://www.w3schools.com/whatis/whatis_fullstack.asp) coder from Italy</div>  
