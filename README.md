@@ -7,17 +7,11 @@
   
 
 ### <div align="center">I'm a 17 year old [Full Stack](https://www.w3schools.com/whatis/whatis_fullstack.asp) coder from Italy</div>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GiuseppeAlreadyTaken&theme=nord&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
   
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiuseppeAlreadyTaken&theme=nord&hide_border=true&include_all_commits=true&count_private=true&layout=compact" align="center" height="" width="200" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiuseppeAlreadyTaken&theme=nord&hide_border=true&include_all_commits=true&count_private=true&layout=compact" align="center" height="" width=""/>
 </div>  
-
-<div align="center">
-<img src="https://media3.giphy.com/media/WoWm8YzFQJg5i/giphy.gif?cid=ecf05e474990vk6koc311iteootptpx78o5own6e3i9p07ol&rid=giphy.gif&ct=g" align="center" height="" width="200" />
-</div>  
-
 
 <br/>  
 
